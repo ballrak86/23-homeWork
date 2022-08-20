@@ -1,4 +1,4 @@
-#23-homeWork. BIND and Split-DNS
+# 23-homeWork. BIND and Split-DNS
 ## Описание файлов в директории
 logFileFull.log - полный лог выполнения  
 
